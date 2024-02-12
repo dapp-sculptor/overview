@@ -1,51 +1,62 @@
-# <h1 align="center" >👇 My Projects overview 👇</h1>
+# <h1 align="center" >👇 My recently projects 👇</h1>
 
 I have built several Blockchain projects! My skills cover a wide range of features and functionalities, including minting, staking, evolution/breeding, raffle/auction houses, Launchpad, Marketplace, and P2E games such as dice, crash, jackpot, coinflip, and more. I look forward to learning more about the specific details of new skills.
 
 <br />
 
-<hr />
-<h3><u><strong><i>✅ Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/224244632-4cedc247-8749-4df8-9828-526eff6199c0.png">
-
-This is one kind of Sol Crash game. 🚕 Instead of that, the transparent is Taxi.
-
-Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 3 parts, smart contract, back-end, and front-end integration.
-
-- Live: <a href="https://degentaxi.io">Degen Taxi</a>
-- Github Repository: <a href="https://github.com/dapp-sculptor/degentaxi-frontend-solana">Degentaxi FE</a>
-- Github Repository: <a href="https://github.com/dapp-sculptor/degentaxi-backend-solana">DegenTaxi BE</a>
 
 <hr />
-<h3><u><strong><i>✅ Crypto Legions</i></strong></u> &nbsp;(ETH)</h3>
+<h3><u><strong><i>✅ FlareGod</i></strong></u> &nbsp; (ETH)</h3>
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/783f14ab-5119-4582-b43c-96919d61a995">
 
-<img align="right" width="300px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/29924624/244623512-db717a1b-bf52-4524-a4ef-34afdcdff36f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T210525Z&X-Amz-Expires=300&X-Amz-Signature=a69fb5cdf3d3a0c815b7885205e9dadc234374ec945d49b9dc611f47a8805ca4&X-Amz-SignedHeaders=host&actor_id=101289246&key_id=0&repo_id=649783735">
+This is NFT Minting Project. Minting will be open for all, Whitelist will have no limit (20% discount). 15% each mint is shared to all holders, the earlier you mint & the more NFTs you hold, the more rewards you can claim.
 
-- How To Earn ?
-   - In Crypto Legions you will be able to create and develop fierce legions, which you can use to hunt the most dangerous monsters on planet Nicah. There are many ways for people to profit from the Crypto Legions ecosystem, and three of the main ways are: summoning and trading valuable NFT assets, using legions to hunt the monsters of Nicah, and trading the $BLOODSTONE token. Successfully hunting and defeating these monsters will earn you $BLOODSTONE ($BLST) which is the most valuable resource in the entire universe.
+- Live: <a href="https://flaregods.xyz">FlareGods</a>
+- Github Repository: <a href="https://github.com/2En0/mintingdapp-xwhale-eth">FlareGods</a>
+
+<h3><u><strong><i>✅ DoodleBunny</i></strong></u> &nbsp; (ETH)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/f5d6d61d-2fac-4d37-9f43-ba7c1f870265">
+
+Doodle Bunny is the NFT project on Flare network. It will not only bring in first ever doodle NFTs on Flare but also, NFT breeding & NFT staking to earn our native Bunny token. There will be total 1000 doodle bunnies (500 Males & 500 Females).
+NFTs holders will be able breed them - 1 Male x 1 Female = Baby Bunny (There will be 500 Baby Bunnies). NFT breeding will cost Bunny token (which will be burned) & later available to stake them on our staking website to earn BUNNY token.
+This is mint website on Flare network. I used Solidity(ERC 721) to write smart contract and Next.js in front-end side.
  
-- Live: <a href="https://cryptolegions.app/">Crypto Legions</a>
-- Github Repository: <a href="https://github.com/dapp-sculptor/cryptolegion-frontend-eth">Crypto Legions</a>
+- Live: <a href="https://doodlebunnyflr.live/">DoodleBunny</a>
+- Github Repository: <a href="https://github.com/2En0/mintingDapp-doodleBunny-eth">DoodleBunny</a>
 
+<h3><u><strong><i>✅ NFT Marketplace</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
-<h3><u><strong><i>✅ CuteInsane</i></strong></u> &nbsp;(ETH)</h3>
 
-<img align="right" width="300px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/29924624/244620618-f50e174d-bd53-44c6-927a-6979eb051b91.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T205140Z&X-Amz-Expires=300&X-Amz-Signature=24be388db7df323da7dd78bda4458dfc9506c82502ec74e2a6b9e70c9eefd8ab&X-Amz-SignedHeaders=host&actor_id=101289246&key_id=0&repo_id=649783735">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/17ed39ed-1451-4f6d-aded-e87a21ea033e">
 
- - The Mint?
-    - Whitelist mint will run for 24 hours and mint cost will be 1000 FLR. 1000 out of 2500 NFTs will be available during whitelist. After 24 hours, public mint will be open for all - Mint cost 1500.
- - What is Cute to Insane?
-    - Cute to Insane is the NFT on the Flare network. We aim to introduce two collections; the project aims to provide NFTs to the holders and give benefits for holding.
- - What are the utilties of our NFTs?
-    - 15% mintcost back to holders.
-    - 10% added community pools for flrdrop.
+- Functionality
+    - Over 10 NFT Collections
+    - Sell/buy with SGB, sDOOD & CARE Tokens.
+    - Simply connect wallet and list your NFTs.
+    - 5% Fee: All collected sDOOD will be burned monthly & all collected SGB will be used to buy back sDOOD token.
 
-- Live: <a href="https://cutetoinsane.online/">CuteInsane</a>
-- Github Repository: <a href="https://github.com/dapp-sculptor/mintingdapp-cuteinsane-eth">CuteInsane</a>
+- Live: <a href="https://market.doodcats.net/">Marketplace</a>
+- Github Repository: <a href="https://github.com/2En0/marketplace-doodcats-eth">Marketplace</a>
 
+<h3><u><strong><i>✅ Doodcats</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
+
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/99e04396-753a-44b6-bf50-327bc7bc5863">
+
+After DoodCats, we are happy to introduce DedDoods NFT on SONGBIRD. We are excited to share that the owners of DedDoods NFTs will be able to stake their NFTs and earn sDOOD token everyday.
+ - Functionality
+    - Staking: Holders may stake DoodCats v3 NFTs and DedDoods NFTs to earn sDOOD.
+    - Purchasing NFTs: sDOOD holders may purchase NFTs and mint new collection NFTs in future.
+    - Governance: sDOOD holders may participate in the governance of project by voting.
+    - Single token staking: sDOOD holders will be able to stake sDOOD and earn certain percentage depending on the stake plan.
+    
+- Live: <a href="https://doodcats.net">Doodcats Staking Dapp</a>
+- Github Repository: <a href="https://github.com/2En0/stakingDapp-doodcats-eth">Doodcats Staking Dapp</a>
+
 <h3><u><strong><i>✅ SolArmy </i></strong></u> &nbsp;(Solana)</h3>
+<hr />
 
 A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (2) stake a Baby Tiger and (3) stake a matching pair. The details on the amount of $DAB that is earned along with any multiplier bonus are outlined below. 
 
@@ -54,8 +65,8 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
 - Demo: <a href="https://basc-nft-staking.vercel.app">BASC NFT Staking</a>
 - Live Link: <a href="https://stakingv2.babyapesocialclub.com">BASC NFT Staking</a>
   - Functionality
-    - Stake / Unstake All NFTs
-    - Claim All Rewards
+    - Stake / Unstake All NFTs - for each tab, Matching Pairs, Pairs, Individual
+    - Claim All Rewards - if these have to be separated by individual staked vs. pairs staked that is ok
   - Rarity Multiplier
     - Baby Ape
       - Rank < 13 = 100 $DAB/day
@@ -72,51 +83,98 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
 - Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a>
 - Github Repo: <a href="https://github.com/best-lucky1030/BASC-NFT-Staking">BASC-NFT-Staking</a>
 
+<h3><u><strong><i>✅ Sol Flowers</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
-<h3><u><strong><i>✅ NFT Marketplace</i></strong></u> &nbsp;(ETH)</h3>
 
-<img align="right" width="300px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/29924624/244613675-17ed39ed-1451-4f6d-aded-e87a21ea033e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T204943Z&X-Amz-Expires=300&X-Amz-Signature=1cd5a60d66f0f09b5d4c0529bceb2ee4ce361f500002e50d6047e3e647620ca0&X-Amz-SignedHeaders=host&actor_id=101289246&key_id=0&repo_id=649783735">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/5df9df03-f822-48b9-8c64-4dd7635880f3">
 
-- Functionality
-    - Over 10 NFT Collections
-    - Sell/buy with SGB, sDOOD & CARE Tokens.
-    - Simply connect wallet and list your NFTs.
-    - 5% Fee: All collected sDOOD will be burned monthly & all collected SGB will be used to buy back sDOOD token.
+Owners of the OG NFT Seattle set have access to the Genesis DAO, where they can vote on future decisions related to FLWR, such as changes to staking emissions and supply burn, through a voting system on Blockchain.
+SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodling strong and help to grow the community by onboarding new members. Their strong belief in FLWR solidifies the ecosystem's potential and value.
 
-- Live: <a href="https://market.doodcats.net/">Marketplace</a>
-- Github Repository: <a href="https://github.com/dapp-sculptor/marketplace-doodcats-eth">Marketplace</a>
-
-<hr />
-<h3><u><strong><i>✅ Doodcats</i></strong></u> &nbsp;(ETH)</h3>
-
-<img align="right" width="300px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/29924624/244615495-99e04396-753a-44b6-bf50-327bc7bc5863.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T205018Z&X-Amz-Expires=300&X-Amz-Signature=0e935289a8b718d3f349aaf6a7b8b2ff40bb33107c9cb06d354af9863aef60da&X-Amz-SignedHeaders=host&actor_id=101289246&key_id=0&repo_id=649783735">
-
-After DoodCats, we are happy to introduce DedDoods NFT on SONGBIRD. We are excited to share that the owners of DedDoods NFTs will be able to stake their NFTs and earn sDOOD token everyday.
- - Functionality
-    - Staking: Holders may stake DoodCats v3 NFTs and DedDoods NFTs to earn sDOOD.
-    - Purchasing NFTs: sDOOD holders may purchase NFTs and mint new collection NFTs in future.
-    - Governance: sDOOD holders may participate in the governance of project by voting.
-    - Single token staking: sDOOD holders will be able to stake sDOOD and earn certain percentage depending on the stake plan.
-    
-- Live: <a href="https://doodcats.net">Doodcats Staking Dapp</a>
-- Github Repository: <a href="https://github.com/dapp-sculptor/stakingDapp-doodcats-eth">Doodcats Staking Dapp</a>
-
-<hr />
-<h3><u><strong><i>✅ DoodleBunny</i></strong></u> &nbsp; (ETH)</h3>
-
-<img align="right" width="300px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/29924624/244609033-f5d6d61d-2fac-4d37-9f43-ba7c1f870265.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T204912Z&X-Amz-Expires=300&X-Amz-Signature=a375d2057e246c586f8a7370ffbcdb4690ffe505abf00caa52962a1ee33f6a87&X-Amz-SignedHeaders=host&actor_id=101289246&key_id=0&repo_id=649783735">
-
-Doodle Bunny is the NFT project on Flare network. It will not only bring in first ever doodle NFTs on Flare but also, NFT breeding & NFT staking to earn our native Bunny token. There will be total 1000 doodle bunnies (500 Males & 500 Females).
-NFTs holders will be able breed them - 1 Male x 1 Female = Baby Bunny (There will be 500 Baby Bunnies). NFT breeding will cost Bunny token (which will be burned) & later available to stake them on our staking website to earn BUNNY token.
-This is mint website on Flare network. I used Solidity(ERC 721) to write smart contract and Next.js in front-end side.
+- Live: <a href="https://www.solflowers.io/">Sol Flowers</a>
+- Github Repository: <a href="https://github.com/2En0/coinflip-game-solana">Sol Flowers</a>
  
-- Live: <a href="https://doodlebunnyflr.live/">DoodleBunny</a>
-- Github Repository: <a href="https://github.com/dapp-sculptor/mintingDapp-doodleBunny-eth">DoodleBunny</a>
-
+<h3><u><strong><i>✅ CuteInsane</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
-<h3><u><strong><i>✅ Co-Go-Fly</i></strong></u></h3>
 
-<img align="right" width="300px" src="https://github.com/dapp-sculptor/My-Projects-Overview/assets/29924624/9b0059a4-53db-4ede-815e-2bc08d773e04">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/f50e174d-bd53-44c6-927a-6979eb051b91">
+
+ - The Mint?
+    - Whitelist mint will run for 24 hours and mint cost will be 1000 FLR. 1000 out of 2500 NFTs will be available during whitelist. After 24 hours, public mint will be open for all - Mint cost 1500.
+ - What is Cute to Insane?
+    - Cute to Insane is the NFT on the Flare network. We aim to introduce two collections; the project aims to provide NFTs to the holders and give benefits for holding.
+ - What are the utilties of our NFTs?
+    - 15% mintcost back to holders.
+    - 10% added community pools for flrdrop.
+
+- Live: <a href="https://cutetoinsane.online/">CuteInsane</a>
+- Github Repository: <a href="https://github.com/2En0/mintingdapp-cuteinsane-eth">CuteInsane</a>
+ 
+<h3><u><strong><i>✅ BeastyBit</i></strong></u> &nbsp;(ETH)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/f3591b9a-b70e-4cbd-a9a2-79a6da422961">
+
+ - who are the beasty bits?
+    - We are beasts in the form of humans. We have series of beasts, each serie with 3 collections. Each collection gives a membership status and a share of the proceedings from the next series.
+ - why become a beast?
+    - As a beast, you will not only get 1:1 AD in that same series, but also be able to participate in various votings that will shape the future collections. The benefits do not stop there, as ofcourse more and more series mean more and more profits just by holding the NFT.
+
+- Live: <a href="https://beastybits.com/">BeastyBit</a>
+- Github Repository: <a href="https://github.com/2En0/mintingdapp-beastybit-eth">BeastyBit</a>
+
+<h3><u><strong><i>✅ Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/224244632-4cedc247-8749-4df8-9828-526eff6199c0.png">
+
+This is one kind of Sol Crash game. 🚕 Instead of that, the transparent is Taxi.
+
+Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 3 parts, smart contract, back-end, and front-end integration.
+
+- Live: <a href="https://degentaxi.io">Degen Taxi</a>
+- Github Repository: <a href="https://github.com/2En0/degentaxi-frontend-solana">Degentaxi FE</a>
+- Github Repository: <a href="https://github.com/2En0/degentaxi-backend-solana">DegenTaxi BE</a>
+
+
+
+<h3><u><strong><i>✅ Deezkits CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/58858b56-3bb4-4ffc-a929-92fe36aa8907">
+
+- What is the Deezkits CoinFlip Game?
+   - This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount. This project includes smart contract, back-end, and front-end integration.
+ 
+- Live: <a href="https://coinflip.deezkits.com/">Deezkits CoinFlip</a>
+- Github Repository: <a href="https://github.com/2En0/coinflip-game-solana">Deezkits CoinFlip</a>
+
+<h3><u><strong><i>✅ Crypto Legions</i></strong></u> &nbsp;(ETH)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/db717a1b-bf52-4524-a4ef-34afdcdff36f">
+
+- How To Earn ?
+   - In Crypto Legions you will be able to create and develop fierce legions, which you can use to hunt the most dangerous monsters on planet Nicah. There are many ways for people to profit from the Crypto Legions ecosystem, and three of the main ways are: summoning and trading valuable NFT assets, using legions to hunt the monsters of Nicah, and trading the $BLOODSTONE token. Successfully hunting and defeating these monsters will earn you $BLOODSTONE ($BLST) which is the most valuable resource in the entire universe.
+ 
+- Live: <a href="https://cryptolegions.app/">Crypto Legions</a>
+- Github Repository: <a href="https://github.com/2En0/cryptolegion-frontend-eth">Crypto Legions</a>
+
+<h3><u><strong><i>✅ Lion Here</i></strong></u> </h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/80ed5334-8ac4-40dd-987c-d22064327a66">
+ - The rewards pool will have a set amount, and once it's empty, it's empty. meaning over a years time there will be staking rewards. 
+ - Reward-rates are the same and will not change. 
+ - If you start right away you will have taken a bigger share of the rewards.
+ - The TSP airdrop to Lion holders will not happen until all Lions are minted. But if you have a Lion now, you can start staking and earn TSP already.
+ 
+- Live: <a href="https://tsphunt.xyz/">Lion Here</a>
+
+<h3><u><strong><i>✅ Co-Go-Fly</i></strong></u></h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/9b0059a4-53db-4ede-815e-2bc08d773e04">
 
 - The Genesis of CoTravellers
    - Connect with persons from the 4 corners of the world, share their experiences and expand your network.
@@ -125,11 +183,10 @@ This is mint website on Flare network. I used Solidity(ERC 721) to write smart c
  
 - Live: <a href="https://www.cogofly.com/">Co-Go-Fly</a>
 
-
-<hr />
 <h3><u><strong><i>✅ Littlespoon</i></strong></u> </h3>
+<hr />
 
-<img align="right" width="300px" src="https://github.com/dapp-sculptor/My-Projects-Overview/assets/29924624/bd02b8a6-8ecf-4c54-aca7-42be9cc85e76" >
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/bd02b8a6-8ecf-4c54-aca7-42be9cc85e76">
 
 - Pick your plan.
    - From baby food to big kid meals, we’ve got even the pickiest of eaters covered.
@@ -139,58 +196,3 @@ This is mint website on Flare network. I used Solidity(ERC 721) to write smart c
    - We’ll prep your Little Spoon order and deliver it straight to your door. Pause, skip, cancel or adjust at any time.
  
 - Live: <a href="https://www.littlespoon.com/">Littlespoon</a>
-
-<hr />
-<h3><u><strong><i>✅ FlareGod</i></strong></u> &nbsp; (ETH)</h3>
-<img align="right" width="300px" height="150px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/29924624/244608488-783f14ab-5119-4582-b43c-96919d61a995.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T204707Z&X-Amz-Expires=300&X-Amz-Signature=222a4ad4af10d36512c2afd15dcfd71357e943f7a72a7d76f63fa08f547a78cf&X-Amz-SignedHeaders=host&actor_id=101289246&key_id=0&repo_id=649783735">
-
-This is NFT Minting Project. Minting will be open for all, Whitelist will have no limit (20% discount). 15% each mint is shared to all holders, the earlier you mint & the more NFTs you hold, the more rewards you can claim.
-
-- Live: <a href="https://flaregods.xyz">FlareGods</a>
-- Github Repository: <a href="https://github.com/dapp-sculptor/mintingdapp-xwhale-eth">FlareGods</a>
-
-<hr />
-<h3><u><strong><i>✅ Sol Flowers</i></strong></u> &nbsp;(Solana)</h3>
-
-<img align="right" width="300px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/29924624/244619058-5df9df03-f822-48b9-8c64-4dd7635880f3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T205110Z&X-Amz-Expires=300&X-Amz-Signature=bd6c01b0484c56496ca2bba079b3f653a0dc3d543e300ee4bb5f13d71da59a8d&X-Amz-SignedHeaders=host&actor_id=101289246&key_id=0&repo_id=649783735">
-
-Owners of the OG NFT Seattle set have access to the Genesis DAO, where they can vote on future decisions related to FLWR, such as changes to staking emissions and supply burn, through a voting system on Blockchain.
-SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodling strong and help to grow the community by onboarding new members. Their strong belief in FLWR solidifies the ecosystem's potential and value.
-
-- Live: <a href="https://www.solflowers.io/">Sol Flowers</a>
-- Github Repository: <a href="https://github.com/dapp-sculptor/coinflip-game-solana">Sol Flowers</a>
- 
-<hr />
-<h3><u><strong><i>✅ BeastyBit</i></strong></u> &nbsp;(ETH)</h3>
-
-<img align="right" width="300px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/29924624/244621530-f3591b9a-b70e-4cbd-a9a2-79a6da422961.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T210326Z&X-Amz-Expires=300&X-Amz-Signature=7fff0c4492110f0f2303ee89e917ea42c88a92e7bfb4757efaebf5bd455dbe9a&X-Amz-SignedHeaders=host&actor_id=101289246&key_id=0&repo_id=649783735">
-
- - who are the beasty bits?
-    - We are beasts in the form of humans. We have series of beasts, each serie with 3 collections. Each collection gives a membership status and a share of the proceedings from the next series.
- - why become a beast?
-    - As a beast, you will not only get 1:1 AD in that same series, but also be able to participate in various votings that will shape the future collections. The benefits do not stop there, as ofcourse more and more series mean more and more profits just by holding the NFT.
-
-- Live: <a href="https://beastybits.com/">BeastyBit</a>
-- Github Repository: <a href="https://github.com/dapp-sculptor/mintingdapp-beastybit-eth">BeastyBit</a>
-
-<hr />
-<h3><u><strong><i>✅ Deezkits CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
-
-<img align="right" width="300px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/29924624/244622865-58858b56-3bb4-4ffc-a929-92fe36aa8907.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T210355Z&X-Amz-Expires=300&X-Amz-Signature=ba6fac8b1d2a8d9ea28a024e7464f29ad5fba2bb2498370549c06f1a02b561e9&X-Amz-SignedHeaders=host&actor_id=101289246&key_id=0&repo_id=649783735">
-
-- What is the Deezkits CoinFlip Game?
-   - This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount. This project includes smart contract, back-end, and front-end integration.
- 
-- Live: <a href="https://coinflip.deezkits.com/">Deezkits CoinFlip</a>
-- Github Repository: <a href="https://github.com/dapp-sculptor/coinflip-game-solana">Deezkits CoinFlip</a>
-
-<hr />
-<h3><u><strong><i>✅ Lion Here</i></strong></u> </h3>
-
-<img align="right" width="300px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/29924624/282649687-80ed5334-8ac4-40dd-987c-d22064327a66.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T210602Z&X-Amz-Expires=300&X-Amz-Signature=280e48a96e39c553efee1eede7e6c3c26051ec69e0ad16d622a757024444567c&X-Amz-SignedHeaders=host&actor_id=101289246&key_id=0&repo_id=649783735">
- - The rewards pool will have a set amount, and once it's empty, it's empty. meaning over a years time there will be staking rewards. 
- - Reward-rates are the same and will not change. 
- - If you start right away you will have taken a bigger share of the rewards.
- - The TSP airdrop to Lion holders will not happen until all Lions are minted. But if you have a Lion now, you can start staking and earn TSP already.
- 
-- Live: <a href="https://tsphunt.xyz/">Lion Here</a>
